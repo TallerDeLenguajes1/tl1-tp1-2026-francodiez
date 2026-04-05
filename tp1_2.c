@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//
 int cuadrado(int a);
 void cuadrado2(int *numero);
 void contenido(int a);
