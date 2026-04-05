@@ -20,3 +20,7 @@ La funcion duplicar_numero no duplica el valor que se le ingresa porque se le pa
 La ultima linea de return 0 le falta ';' al final.
 
 Lo subi con nombre de commit 'ejercicio completado' porque no era el ejercicio 4.
+
+#### Respuesta ejercicio 4 g
+El resultado es el mismo en el apartado 2 y 3 porque ya asigne al puntero la direccion de memoria de la variable como valor, mientras que el apartado 4 da diferente porque es la direccion de memoria donde se encuentra el puntero.
+
