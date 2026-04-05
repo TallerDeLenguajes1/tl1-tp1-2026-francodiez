@@ -1,0 +1,5 @@
+#Ignoro el archivo ignorado.txt
+ignorado.txt
+
+#Ignoro el ejecutable que se me genera al compilar C pues no es necesario.  
+*.exe
